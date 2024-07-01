@@ -36,4 +36,5 @@ class Test_1(BaseClass):
         log.info("text received from application is " + msg)
 
         assert "Success! Thank you!" in msg
+        print("GIT changes done")
         time.sleep(2)
