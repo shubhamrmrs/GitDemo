@@ -1,0 +1,160 @@
+2024-06-23 19:18:56,209 :INFO :test_e2e :Getting all the product titles
+2024-06-23 19:18:56,241 :INFO :test_e2e :iphone X
+2024-06-23 19:18:56,242 :INFO :test_e2e :Samsung Note 8
+2024-06-23 19:18:56,262 :INFO :test_e2e :Nokia Edge
+2024-06-23 19:18:56,275 :INFO :test_e2e :Blackberry
+2024-06-23 19:18:56,449 :INFO :test_e2e :Entering country name as ind
+2024-06-23 19:19:01,735 :INFO :test_e2e :text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-23 19:21:28,883 :INFO :test_e2e :Getting all the product titles
+2024-06-23 19:21:28,904 :INFO :test_e2e :iphone X
+2024-06-23 19:21:28,914 :INFO :test_e2e :Samsung Note 8
+2024-06-23 19:21:28,922 :INFO :test_e2e :Nokia Edge
+2024-06-23 19:21:28,946 :INFO :test_e2e :Blackberry
+2024-06-23 19:21:29,079 :INFO :test_e2e :Entering country name as ind
+2024-06-23 19:21:34,337 :INFO :test_e2e :text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-23 19:21:38,263 :INFO :test_FormSubmission :Name is shubham
+2024-06-23 19:21:38,863 :INFO :test_FormSubmission :Name is rahul
+2024-06-23 19:21:38,863 :INFO :test_FormSubmission :Name is rahul
+2024-06-23 19:25:34,330 :INFO :test_e2e :Getting all the product titles
+2024-06-23 19:25:34,356 :INFO :test_e2e :iphone X
+2024-06-23 19:25:34,369 :INFO :test_e2e :Samsung Note 8
+2024-06-23 19:25:34,381 :INFO :test_e2e :Nokia Edge
+2024-06-23 19:25:34,394 :INFO :test_e2e :Blackberry
+2024-06-23 19:25:34,596 :INFO :test_e2e :Entering country name as ind
+2024-06-23 19:25:39,898 :INFO :test_e2e :text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-23 19:25:43,974 :INFO :test_FormSubmission :Name is shubham
+2024-06-23 19:25:44,561 :INFO :test_FormSubmission :Name is rahul
+2024-06-23 19:25:44,561 :INFO :test_FormSubmission :Name is rahul
+2024-06-23 19:33:17,305 :INFO :test_e2e :Getting all the product titles
+2024-06-23 19:33:17,336 :INFO :test_e2e :iphone X
+2024-06-23 19:33:17,347 :INFO :test_e2e :Samsung Note 8
+2024-06-23 19:33:17,353 :INFO :test_e2e :Nokia Edge
+2024-06-23 19:33:17,359 :INFO :test_e2e :Blackberry
+2024-06-23 19:33:17,508 :INFO :test_e2e :Entering country name as ind
+2024-06-23 19:33:22,808 :INFO :test_e2e :text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-23 19:33:24,844 :INFO :test_FormSubmission :Name is shubham
+2024-06-23 19:33:25,383 :INFO :test_FormSubmission :Name is rahul
+2024-06-23 19:33:25,383 :INFO :test_FormSubmission :Name is rahul
+2024-06-27 15:09:45,582 :INFO :test_FormSubmission :Name is simmy
+2024-06-27 15:10:22,487 :INFO :test_FormSubmission :Name is simmy
+2024-06-27 15:18:40,186 :INFO :test_FormSubmission :Name is simmy
+2024-06-27 15:19:36,740 :INFO :test_FormSubmission :Name is simmy
+2024-06-27 15:20:06,765 :INFO :test_FormSubmission :Name is simmy
+2024-06-27 15:22:42,540 :INFO :test_FormSubmission :Name is simmy
+2024-06-27 15:49:35,551 :INFO :test_e2e :Getting all the product titles
+2024-06-27 15:49:35,579 :INFO :test_e2e :iphone X
+2024-06-27 15:49:35,584 :INFO :test_e2e :Samsung Note 8
+2024-06-27 15:49:35,589 :INFO :test_e2e :Nokia Edge
+2024-06-27 15:49:35,594 :INFO :test_e2e :Blackberry
+2024-06-27 15:49:35,719 :INFO :test_e2e :Entering country name as ind
+2024-06-27 15:49:40,962 :INFO :test_e2e :text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-27 15:50:11,543 :INFO :test_e2e :Getting all the product titles
+2024-06-27 15:50:11,565 :INFO :test_e2e :iphone X
+2024-06-27 15:50:11,574 :INFO :test_e2e :Samsung Note 8
+2024-06-27 15:50:11,580 :INFO :test_e2e :Nokia Edge
+2024-06-27 15:50:11,585 :INFO :test_e2e :Blackberry
+2024-06-27 15:50:11,704 :INFO :test_e2e :Entering country name as ind
+2024-06-27 15:50:16,888 :INFO :test_e2e :text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-27 15:52:02,632 :INFO :test_FormSubmission :Name is simmy
+2024-06-27 15:59:24,325 :INFO :test_FormSubmission :Name is seema
+2024-06-27 16:01:40,999 :INFO :test_FormSubmission :Name is seema
+2024-06-27 16:02:18,973 :INFO :test_FormSubmission :Name is lee
+2024-06-27 16:04:42,843 :INFO :test_FormSubmission :Name is lee
+2024-06-27 16:06:06,175 :INFO :test_FormSubmission :Name is seema
+2024-06-27 16:06:26,432 :INFO :test_FormSubmission :Name is seema
+2024-07-01 12:16:47,345 :INFO :test_e2e :Getting all the product titles
+2024-07-01 12:16:47,368 :INFO :test_e2e :iphone X
+2024-07-01 12:16:47,378 :INFO :test_e2e :Samsung Note 8
+2024-07-01 12:16:47,388 :INFO :test_e2e :Nokia Edge
+2024-07-01 12:16:47,398 :INFO :test_e2e :Blackberry
+2024-07-01 12:16:47,568 :INFO :test_e2e :Entering country name as ind
+2024-07-01 12:16:52,947 :INFO :test_e2e :text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-07-01 12:16:55,162 :INFO :test_FormSubmission :Name is seema
+2024-07-01 12:18:52,477 :INFO :test_e2e :Getting all the product titles
+2024-07-01 12:18:52,497 :INFO :test_e2e :iphone X
+2024-07-01 12:18:52,502 :INFO :test_e2e :Samsung Note 8
+2024-07-01 12:18:52,509 :INFO :test_e2e :Nokia Edge
+2024-07-01 12:18:52,514 :INFO :test_e2e :Blackberry
+2024-07-01 12:18:52,652 :INFO :test_e2e :Entering country name as ind
+2024-07-01 12:18:57,975 :INFO :test_e2e :text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-07-01 12:19:01,949 :INFO :test_FormSubmission :Name is seema
+2024-07-01 12:22:23,522 :INFO :test_e2e :Getting all the product titles
+2024-07-01 12:22:23,552 :INFO :test_e2e :iphone X
+2024-07-01 12:22:23,565 :INFO :test_e2e :Samsung Note 8
+2024-07-01 12:22:23,576 :INFO :test_e2e :Nokia Edge
+2024-07-01 12:22:23,586 :INFO :test_e2e :Blackberry
+2024-07-01 12:22:23,764 :INFO :test_e2e :Entering country name as ind
+2024-07-01 12:22:29,181 :INFO :test_e2e :text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-07-01 12:22:33,117 :INFO :test_FormSubmission :Name is seema
+2024-07-01 12:26:53,363 :INFO :test_e2e :Getting all the product titles
+2024-07-01 12:26:53,390 :INFO :test_e2e :iphone X
+2024-07-01 12:26:53,398 :INFO :test_e2e :Samsung Note 8
+2024-07-01 12:26:53,407 :INFO :test_e2e :Nokia Edge
+2024-07-01 12:26:53,415 :INFO :test_e2e :Blackberry
+2024-07-01 12:26:53,600 :INFO :test_e2e :Entering country name as ind
+2024-07-01 12:26:58,962 :INFO :test_e2e :text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-07-01 12:27:03,109 :INFO :test_FormSubmission :Name is seema
+2024-07-01 12:31:02,284 :INFO :test_e2e :Getting all the product titles
+2024-07-01 12:31:02,321 :INFO :test_e2e :iphone X
+2024-07-01 12:31:02,338 :INFO :test_e2e :Samsung Note 8
+2024-07-01 12:31:02,354 :INFO :test_e2e :Nokia Edge
+2024-07-01 12:31:02,370 :INFO :test_e2e :Blackberry
+2024-07-01 12:31:02,590 :INFO :test_e2e :Entering country name as ind
+2024-07-01 12:31:07,914 :INFO :test_e2e :text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-07-01 12:31:11,797 :INFO :test_FormSubmission :Name is seema
+2024-07-01 12:31:37,919 :INFO :test_e2e :Getting all the product titles
+2024-07-01 12:31:37,943 :INFO :test_e2e :iphone X
+2024-07-01 12:31:37,953 :INFO :test_e2e :Samsung Note 8
+2024-07-01 12:31:37,963 :INFO :test_e2e :Nokia Edge
+2024-07-01 12:31:37,971 :INFO :test_e2e :Blackberry
+2024-07-01 12:31:38,128 :INFO :test_e2e :Entering country name as ind
+2024-07-01 12:31:43,546 :INFO :test_e2e :text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-07-01 12:31:49,650 :INFO :test_FormSubmission :Name is seema
+2024-07-01 12:32:18,776 :INFO :test_e2e :Getting all the product titles
+2024-07-01 12:32:18,805 :INFO :test_e2e :iphone X
+2024-07-01 12:32:18,816 :INFO :test_e2e :Samsung Note 8
+2024-07-01 12:32:18,823 :INFO :test_e2e :Nokia Edge
+2024-07-01 12:32:18,829 :INFO :test_e2e :Blackberry
+2024-07-01 12:32:18,991 :INFO :test_e2e :Entering country name as ind
+2024-07-01 12:32:24,414 :INFO :test_e2e :text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-07-01 12:32:28,454 :INFO :test_FormSubmission :Name is seema
+2024-07-01 12:32:42,979 :INFO :test_e2e :Getting all the product titles
+2024-07-01 12:32:43,005 :INFO :test_e2e :iphone X
+2024-07-01 12:32:43,014 :INFO :test_e2e :Samsung Note 8
+2024-07-01 12:32:43,023 :INFO :test_e2e :Nokia Edge
+2024-07-01 12:32:43,033 :INFO :test_e2e :Blackberry
+2024-07-01 12:32:43,191 :INFO :test_e2e :Entering country name as ind
+2024-07-01 12:32:48,490 :INFO :test_e2e :text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-07-01 12:32:52,541 :INFO :test_FormSubmission :Name is seema
+2024-07-01 12:33:25,311 :INFO :test_e2e :Getting all the product titles
+2024-07-01 12:33:25,343 :INFO :test_e2e :iphone X
+2024-07-01 12:33:25,352 :INFO :test_e2e :Samsung Note 8
+2024-07-01 12:33:25,359 :INFO :test_e2e :Nokia Edge
+2024-07-01 12:33:25,364 :INFO :test_e2e :Blackberry
+2024-07-01 12:33:25,523 :INFO :test_e2e :Entering country name as ind
+2024-07-01 12:33:31,611 :INFO :test_e2e :text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-07-01 12:33:35,786 :INFO :test_FormSubmission :Name is seema
+2024-07-01 12:40:19,851 :INFO :test_e2e :Getting all the product titles
+2024-07-01 12:40:19,882 :INFO :test_e2e :iphone X
+2024-07-01 12:40:19,895 :INFO :test_e2e :Samsung Note 8
+2024-07-01 12:40:19,909 :INFO :test_e2e :Nokia Edge
+2024-07-01 12:40:19,916 :INFO :test_e2e :Blackberry
+2024-07-01 12:40:20,096 :INFO :test_e2e :Entering country name as ind
+2024-07-01 12:40:25,444 :INFO :test_e2e :text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-07-01 12:40:29,574 :INFO :test_FormSubmission :Name is seema
