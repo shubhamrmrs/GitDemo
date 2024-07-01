@@ -38,7 +38,5 @@ class Test_1(BaseClass):
         assert "Success! Thank you!" in msg
         print("GIT changes done")
         print("GIT changes done")
-        print("GIT changes done")
-        print("GIT changes done")
 
         time.sleep(2)
